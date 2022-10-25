@@ -1,2 +1,2 @@
-### TheBear
-Studying Computer Technology at AAU
+### Studying Computer Technology at AAU
+
