@@ -1,3 +1,2 @@
-### huh
-
-- 🌱 I’m currently learning literally nothing
+### TheBear
+Studying Computer Technology at AAU
