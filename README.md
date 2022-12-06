@@ -3,15 +3,15 @@
 
 
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebear132&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=006aff&border_radius=25&text_bold=true&line_height=30&card_width=400px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebear132&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=006aff&border_radius=25&text_bold=true&line_height=30&card_width=500px" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=450" />
 </a>
 
 
