@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
