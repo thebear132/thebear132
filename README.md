@@ -3,11 +3,11 @@
 
 
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
+<img align="right" width="340" src="https://user-images.githubusercontent.com/28570647/206030419-b00bb934-158c-4d45-8f2f-54be00e3c90a.gif">
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebear132&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=006aff&border_radius=25&text_bold=true&line_height=30&card_width=500px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebear132&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=006aff&border_radius=25&text_bold=true&line_height=30&card_width=480px" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
