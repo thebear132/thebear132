@@ -10,8 +10,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thebear132&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&border_color=006aff&border_radius=25&text_bold=true&line_height=30&card_width=480px" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=450" />
+&nbsp;
+
+<a style="margin-top=30px" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=430" />
 </a>
 
 
