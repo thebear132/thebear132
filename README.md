@@ -18,7 +18,7 @@
 &nbsp;
 
 <a style="margin-top=30px" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=430" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thebear132&layout=compact&border_radius=25&border_color=006aff&theme=transparent&card_width=430" />
 </a>
 
 
